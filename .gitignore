@@ -1,2 +1,17 @@
 release
 .rustc_info.json
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+*.zip
+.vscode
+Makefile
+lib
+Debug
+*.vcxproj*
+*.sln
+release
+Microsoft.*
+.vs
+*.dll
+build
